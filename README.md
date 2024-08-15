@@ -1,4 +1,4 @@
-# solar-panel-detection
+# Solar Panel Detection
 # Detecting Solar Panels From Satellite Imagery
 
 ## content
