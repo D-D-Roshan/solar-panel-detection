@@ -39,7 +39,9 @@ This project aims to detect solar panels in aerial satellite images using machin
 
 ## Screenshots
 
-![Detection Example](link-to-your-screenshot.png)
+![images with solar panel](link-to-your-screenshot.png)
+
+![images no with solar panel](link-to-your-screenshot.png)
 
 *Example of solar panel detection results.*
 
